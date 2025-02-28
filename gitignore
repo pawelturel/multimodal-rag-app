@@ -1,0 +1,10 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.npy
+*.csv
+last_updated.txt
+.venv/
+venv/
