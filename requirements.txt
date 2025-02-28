@@ -1,0 +1,11 @@
+streamlit
+google-cloud-storage
+google-auth
+vertexai
+pandas
+numpy
+scikit-learn
+pillow
+requests
+lxml
+beautifulsoup4
