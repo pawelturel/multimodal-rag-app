@@ -20,6 +20,7 @@ This repository contains the implementation of a **Multimodal Retrieval-Augmente
 ├── 04_multimodal_rag_app.py      # Main Streamlit UI for retrieval and querying
 ├── requirements.txt              # List of dependencies
 ├── README.md                     # Project documentation
+├── Documentation.md              # Project documentation
 ├── .gitignore                    # Files to ignore in Git
 ```
 
