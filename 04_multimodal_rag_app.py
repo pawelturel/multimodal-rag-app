@@ -18,6 +18,9 @@ import time
 # Set page config to wide layout
 st.set_page_config(layout="wide")
 
+# Use Cloud Run's PORT
+port = int(os.getenv("PORT", 8080))
+
 # Constants
 BUCKET_NAME = "the-batch-storage"
 CSV_BLOB_NAME = "deeplearning_articles.csv"
