@@ -15,4 +15,4 @@ COPY . .
 EXPOSE 8080
 
 # Run Streamlit app
-CMD ["streamlit", "run", "multimodal_rag_app.py", "--server.port=8080", "--server.address=0.0.0.0"]
+CMD ["streamlit", "run", "04_multimodal_rag_app.py", "--server.port=8080", "--server.address=0.0.0.0"]
