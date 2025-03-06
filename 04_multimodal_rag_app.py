@@ -16,7 +16,7 @@ from collections import deque
 import time
 
 # Set the secret path
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "/var/secrets/GCP_SERVICE_ACCOUNT_KEY"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "/etc/secrets/GCP_SERVICE_ACCOUNT_KEY"
 
 # Set page config to wide layout
 st.set_page_config(layout="wide")
