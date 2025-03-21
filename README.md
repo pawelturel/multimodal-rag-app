@@ -1,5 +1,7 @@
 # **Multimodal Retrieval-Augmented Generation (RAG) System**
 
+## **[APP DEMO](https://www.youtube.com/watch?v=JOkY2_gzk4k)**
+
 ## **Overview**
 This repository contains the implementation of a **Multimodal Retrieval-Augmented Generation (RAG) System** that retrieves relevant news articles from [The Batch](https://www.deeplearning.ai/the-batch/), incorporating both textual and visual data. The system allows users to input queries, retrieve relevant articles, and display associated images using advanced AI techniques.
 
